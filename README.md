@@ -2,6 +2,10 @@
 
 This Snake game project was developed as part of my journey into learning and applying object-oriented programming principles in Python. It's a classic Snake game built using the Python Turtle module, which provides a simple yet engaging gaming experience.
 
+
+
+![Alt text](https://github.com/emex-nord/snake-game_python/blob/main/Img/Image1.jpg)
+![Alt text](https://github.com/emex-nord/snake-game_python/blob/main/Img/Image-game%20over.jpg)
 ## Features:
 
 - **Object-Oriented Design**: The game demonstrates my understanding of object-oriented programming (OOP) concepts. It's structured with various classes to represent game elements like the snake, food, and game board.
